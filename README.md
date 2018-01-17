@@ -11,6 +11,8 @@ This tool is easy to implement in a web page similar to the current OGame battle
 ## Licence and use
 This code is under a GPL 3.0 license. Any questions, suggestions or requests for use outside the terms of the license, please, go to my email: ascasomiguel92@hotmail.com
 
+optimizador.js is the algorithm itself, OPTIMIZADOR RECURSIVO.js is the algorithm used to compare the efficiency between versions.
+
 ## Resumen
 El optimizador de flotas OGame es un motor de cálculo basado en algoritmos genéticos y y técnicas e computación evolutiva que permite maximizar el beneficio posible de un atque a un enemigo en el juego online OGAME.
 
@@ -21,6 +23,7 @@ Esta herramienta es fácil de implementar en una página web similar a los actua
 ## Licencia y uso
 Este código queda bajo licencia GPL 3.0. Cualquier consulta, sugerencia o petición para su uso fuera de los términos de la licencia, por favor, diríjase a mi mail: ascasomiguel92@hotmail.com
 
+optimizador.js es el algoritmo en sí, OPTIMIZADOR RECURSIVO.js es el algoritmo utilizado para comparar la eficiencia entre versiones.
 
 ### Made by Miguel Ascaso Nerín
 Enero 2018.
